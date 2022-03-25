@@ -1,5 +1,10 @@
-### Hi there 👋
+### 👋 About Me:
 
+- 👨‍💻 I'm a developer from **Stavanger, Norway**
+- 🌱 I have a background from the Robotics Industry, recently switched to full-stack web development
+- 🌱 I’m currently learning **JavaScript**, **React JS**, **CSS** and **Node.js**
+- 👯 I’d be delighted to collabote with other learners
+- 🐦  **Twitter**, [@haugkjet](https://twitter.com/haugkjet)
 <!--
 **haugkjet/haugkjet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
