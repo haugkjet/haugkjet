@@ -2,7 +2,7 @@
 
 - 👨‍💻 I'm a developer from **Stavanger, Norway**
 - 🌱 I have a background from the Robotics Industry, recently switched to full-stack web development
-- 🌱 I’m currently learning **JavaScript**, **TypeScript** ,**React JS**, **CSS** and **Node.js**
+- 🌱 I’m currently learning **JavaScript**, **TypeScript** ,**React JS**, **NextJS** and **Node.js**
 - 👯 I’d be delighted to collaborate with other learners
 - 🐦  **Twitter**, [@haugkjet](https://twitter.com/haugkjet)
 <!--
