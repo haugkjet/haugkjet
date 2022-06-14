@@ -1,9 +1,8 @@
 ### 👋 About Me:
 
 - 👨‍💻 I'm a developer from **Stavanger, Norway**
-- 🌱 I have a background from the Robotics Industry, recently switched to full-stack web development
-- 🌱 I’m currently exploring JavaScript, TypeScript, CSS, TailWind, Node.js, React, Next JS, Prisma, Postgres, MongoDB etc.
-- 🌱 I'm also playing with graphics/3D stuff like ThreeJS, Godot, and Unity.
+- 🌱 Web and graphics development
+- 🌱 ThreeJS, NextJS, Blender and webassembly 
 - 👯 I’d be delighted to collaborate with other learners
 - 🐦  **Twitter**, [@haugkjet](https://twitter.com/haugkjet)
 <!--
