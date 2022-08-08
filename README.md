@@ -1,8 +1,7 @@
 ### 👋 About Me:
 
 - 👨‍💻 I'm a developer from **Stavanger, Norway**
-- 🌱 Web and graphics development
-- 🌱 ThreeJS, NextJS, Blender and webassembly 
+- 🌱 Web Development, AI/Machine Learning, 3D/Graphics, Crypto/Web3
 - 👯 I’d be delighted to collaborate with other learners
 - 🐦  **Twitter**, [@haugkjet](https://twitter.com/haugkjet)
 <!--
