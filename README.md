@@ -1,7 +1,7 @@
 ### 👋 About Me:
 
 - 👨‍💻 I'm a developer from **Stavanger, Norway**
-- 🌱 Web Development and 3D Graphics
+- 🌱 Web Development and graphics
 - 👯 I’d be delighted to collaborate with other learners
 - 🐦  **Twitter**, [@haugkjet](https://twitter.com/haugkjet)
 <!--
