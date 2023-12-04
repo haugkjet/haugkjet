@@ -2,7 +2,7 @@
 
 - 👨‍💻 I'm a developer from **Stavanger, Norway**
 - 👯 I’d be delighted to collaborate with other learners
-- X  **X**, [@haugkjet](https://twitter.com/haugkjet)
+- **X**, [@haugkjet](https://twitter.com/haugkjet)
 <!--
 **haugkjet/haugkjet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
